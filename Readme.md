@@ -2,7 +2,7 @@
 
 * Студент: [Константин Гончарук](https://up.htmlacademy.ru/htmlcss/40/user/1030417).
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
-
+* Сайт: [мой проект Седона](https://cloud330.github.io/sedona/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
